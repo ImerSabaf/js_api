@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/ImerSabaf/js_api/issues"
   },
-  "homepage": "https://github.com/ImerSabaf/js_api#readme",
-  "dependencies": {
-    "apollo-server": "^2.4.8",
-    "graphql": "^14.1.1"
-  }
+  "homepage": "https://github.com/ImerSabaf/js_api#readme"
 }
